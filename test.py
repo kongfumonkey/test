@@ -1,6 +1,6 @@
 import sys
 
 if __name__ == "__main_":
-    print("hello world")
+    print("hello world!")
     sys.exit()
     
