@@ -1,3 +1,6 @@
-import os
+import sys
 
-print("hello world")
+if __name__ == "__main_":
+    print("hello world")
+    sys.exit()
+    
